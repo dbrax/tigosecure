@@ -1,4 +1,4 @@
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/epmnzava/tigosecure.svg?style=flat-square)](https://packagist.org/packages/epmnzava/tigopesa)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/epmnzava/tigopesa.svg?style=flat-square)](https://packagist.org/packages/epmnzava/tigopesa)
 [![Total Downloads](https://img.shields.io/packagist/dt/epmnzava/tigopesa.svg?style=flat-square)](https://packagist.org/packages/epmnzava/tigopesa)
 ![GitHub Actions](https://github.com/epmnzava/tigopesa/actions/workflows/main.yml/badge.svg)
 
@@ -7,7 +7,7 @@
 You can install the package via composer:
 
 ```bash
-composer require epmnzava/tigosecure
+composer require epmnzava/tigopesa
 ```
 
 ## Usage
