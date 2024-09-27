@@ -1,10 +1,6 @@
-# Very short description of the package
-
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/epmnzava/tigosecure.svg?style=flat-square)](https://packagist.org/packages/epmnzava/tigosecure)
 [![Total Downloads](https://img.shields.io/packagist/dt/epmnzava/tigosecure.svg?style=flat-square)](https://packagist.org/packages/epmnzava/tigosecure)
 ![GitHub Actions](https://github.com/epmnzava/tigosecure/actions/workflows/main.yml/badge.svg)
-
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
 
 ## Installation
 
@@ -40,8 +36,8 @@ If you discover any security related issues, please email epmnzava@gmail.com ins
 
 ## Credits
 
--   [Emmanuel Mnzava](https://github.com/epmnzava)
--   [All Contributors](../../contributors)
+- [Emmanuel Mnzava](https://github.com/epmnzava)
+- [All Contributors](../../contributors)
 
 ## License
 
