@@ -1,9 +1,9 @@
 {
-    "name": "epmnzava/tigosecure",
-    "description": "Php wrapper of tigosecure api",
+    "name": "epmnzava/tigopesa",
+    "description": "Php wrapper of Tigopesa api",
     "keywords": [
         "epmnzava",
-        "tigosecure"
+        "Tigopesa"
     ],
     "homepage": "https://github.com/epmnzava/tigosecure",
     "license": "MIT",
@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Epmnzava\\Tigosecure\\": "src"
+            "Epmnzava\\Tigopesa\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Epmnzava\\Tigosecure\\Tests\\": "tests"
+            "Epmnzava\\Tigopesa\\Tests\\": "tests"
         }
     },
     "scripts": {

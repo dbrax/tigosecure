@@ -1,13 +1,13 @@
 <?php
 
-namespace Epmnzava\Tigosecure;
+namespace Epmnzava\Tigopesa;
 
 use Exception;
 use GuzzleHttp\Client;
 use Log;
 use Throwable;
 
-class Tigosecure
+class Tigopesa
 {
 
     public $client_secret;

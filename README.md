@@ -1,6 +1,6 @@
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/epmnzava/tigosecure.svg?style=flat-square)](https://packagist.org/packages/epmnzava/tigosecure)
-[![Total Downloads](https://img.shields.io/packagist/dt/epmnzava/tigosecure.svg?style=flat-square)](https://packagist.org/packages/epmnzava/tigosecure)
-![GitHub Actions](https://github.com/epmnzava/tigosecure/actions/workflows/main.yml/badge.svg)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/epmnzava/tigosecure.svg?style=flat-square)](https://packagist.org/packages/epmnzava/tigopesa)
+[![Total Downloads](https://img.shields.io/packagist/dt/epmnzava/tigopesa.svg?style=flat-square)](https://packagist.org/packages/epmnzava/tigopesa)
+![GitHub Actions](https://github.com/epmnzava/tigopesa/actions/workflows/main.yml/badge.svg)
 
 ## Installation
 
@@ -42,7 +42,3 @@ If you discover any security related issues, please email epmnzava@gmail.com ins
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-## PHP Package Boilerplate
-
-This package was generated using the [PHP Package Boilerplate](https://laravelpackageboilerplate.com) by [Beyond Code](http://beyondco.de/).
