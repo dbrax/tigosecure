@@ -122,7 +122,7 @@ class Tigopesa
   "MasterMerchant": {
     "account": "' . $this->account_number . '",
     "pin": "' . $this->pin . '",
-    "id": "' . $this->account_id . '",
+    "id": "' . $this->account_id . '"
   },
   "Merchant": {
     "reference": "",
